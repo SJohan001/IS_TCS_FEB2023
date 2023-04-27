@@ -1,0 +1,7 @@
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\bin\Debug\ServidorConvertidor.dll.config
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\bin\Debug\ServidorConvertidor.dll
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\bin\Debug\ServidorConvertidor.pdb
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\obj\Debug\ServidorConvertidor.csproj.AssemblyReference.cache
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\obj\Debug\ServidorConvertidor.csproj.CoreCompileInputs.cache
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\obj\Debug\ServidorConvertidor.dll
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\Convertidor\ServidorConvertidor\obj\Debug\ServidorConvertidor.pdb
