@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\Test\\LinqColection\\LinqColection.csproj",
+      "projectUniqueName": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\ActividadesTCS\\Actividad 17 LINQ_SolísJohan\\Test\\LinqColection\\LinqColection.csproj",
       "projectName": "LinqColection",
-      "projectPath": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\Test\\LinqColection\\LinqColection.csproj",
+      "projectPath": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\ActividadesTCS\\Actividad 17 LINQ_SolísJohan\\Test\\LinqColection\\LinqColection.csproj",
       "packagesPath": "C:\\Users\\johno\\.nuget\\packages\\",
-      "outputPath": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\Test\\LinqColection\\obj\\",
+      "outputPath": "D:\\Johan\\UNI\\Archivos UV\\Trabajos\\Bloque 6\\semana 12\\4jueves\\tecnologias\\ActividadesTCS\\Actividad 17 LINQ_SolísJohan\\Test\\LinqColection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johno\\AppData\\Roaming\\NuGet\\NuGet.Config",

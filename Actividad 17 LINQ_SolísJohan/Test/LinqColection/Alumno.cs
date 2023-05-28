@@ -20,12 +20,14 @@ namespace LinqColection
             if (carrera != null)
             {
                 Console.WriteLine("Alumno {0} con matricula {1} y promedio {2} " +
-                    "en la carrera {3} con ID {4}", nombre, matricula, promedio, carrera.nombre, idCarrera);
+                    "en la carrera {3} con ID {4}", 
+                    nombre, matricula, promedio, carrera.nombre, idCarrera);
             }
             else
             {
                 Console.WriteLine("Alumno {0} con matricula {1} y promedio {2} " +
-                    "en una carrera no encontrada con ID {3}", nombre, matricula, promedio, idCarrera);
+                    "en una carrera no encontrada con ID {3}", 
+                    nombre, matricula, promedio, idCarrera);
             }
         }
     }

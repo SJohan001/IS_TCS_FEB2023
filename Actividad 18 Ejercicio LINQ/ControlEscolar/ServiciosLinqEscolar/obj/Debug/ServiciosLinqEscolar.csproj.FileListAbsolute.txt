@@ -1,0 +1,7 @@
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.dll.config
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.dll
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.pdb
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.csproj.AssemblyReference.cache
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.csproj.CoreCompileInputs.cache
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.dll
+D:\Johan\UNI\Archivos UV\Trabajos\Bloque 6\semana 12\4jueves\tecnologias\ControlEscolar\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.pdb
