@@ -24,5 +24,10 @@ namespace FrontendEscolar
         {
             InitializeComponent();
         }
+
+        private void InicioSesionButtom_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

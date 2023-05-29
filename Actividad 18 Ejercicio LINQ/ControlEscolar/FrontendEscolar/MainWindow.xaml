@@ -5,8 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FrontendEscolar"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Iniciar sesión" Height="450" Width="800">
     <Grid>
+        <Label Content="Bienvenido al sistema, por favor ingrese su usuario y contraseña" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Usuario" HorizontalAlignment="Center" Margin="0,130,0,0" VerticalAlignment="Top" Width="50"/>
+        <Label Content="Contraseña" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Width="70"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="212"/>
+        <PasswordBox HorizontalAlignment="Center" Margin="0,252,0,0" VerticalAlignment="Top" Width="212"/>
+        <Button x:Name="InicioSesionButtom" Content="Iniciar Sesión" HorizontalAlignment="Center" Margin="0,311,0,0" VerticalAlignment="Top" Width="112" Click="InicioSesionButtom_Click" />
 
     </Grid>
 </Window>
